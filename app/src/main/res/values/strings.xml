@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"> Rick and Morty</string>
+    <string name="title_home">Character</string>
+    <string name="name_title">Name</string>
+    <string name="specie_label">Species:</string>
+    <string name="gender_title"></string>
+    <string name="gender_label">Genre:</string>
+    <string name="Location_title">Location</string>
+    <string name="location_label">nn</string>
+    <string name="specie_title" />
+    <string name="pageAdd">Añadir pagina</string>
+    <string name="imagenfavorite">ImagenFavorite</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_details">Details</string>
+    <string name="characters">Characters</string>
+    <string name="favorites">Favorites</string>
+    <string name="characters_fav">Characters favorites</string>
+</resources>
